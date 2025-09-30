@@ -6,7 +6,7 @@
 - [Javascript Expressions in JSX Practice](https://github.com/devliwa/javascript-expressions-in-jsx-practice)
 - [JSX Attributes & Styling React Elements](https://github.com/devliwa/jsx-attributes-and-styling)
 - [Inline Styling for React Elements](https://github.com/devliwa/inline-styling-in-jsx)
-- [React Styling Practice]()
+- [React Styling Practice](https://github.com/devliwa/react-styling-practice)
 - [React Components]()
 - [React Components Practice]()
 - [Javascript ES6 - Import, Export and Modules]()
