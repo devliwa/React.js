@@ -1,6 +1,6 @@
 # React.js
 
-- [Introduction to JSX and Babel]()
+- [Introduction to JSX and Babel](https://github.com/devliwa/intro-to-jsx)
 - [JSX Code Practice]()
 - [Javascript Expressions in JSX & ES6 Template Literals]()
 - [Javascript Expressions in JSX Practice]()
