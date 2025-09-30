@@ -2,7 +2,7 @@
 
 - [Introduction to JSX and Babel](https://github.com/devliwa/intro-to-jsx)
 - [JSX Code Practice](https://github.com/devliwa/jsx-code-practice)
-- [Javascript Expressions in JSX & ES6 Template Literals]()
+- [Javascript Expressions in JSX & ES6 Template Literals](https://github.com/devliwa/javascript-expressions-in-jsx)
 - [Javascript Expressions in JSX Practice]()
 - [JSX Attributes & Styling React Elements]()
 - [Inline Styling for React Elements]()
