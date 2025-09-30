@@ -12,7 +12,7 @@
 - [Javascript ES6 - Import, Export and Modules]()
 - [Javascript ES6 Import, Export and Modules Practice]()
 - [Keeper App Project - Part 1 Challenge]()
-- [Keeper App Part 1 Solution]
+- [Keeper App Part 1 Solution]()
 - [React Props]()
 - [React Props Practice]()
 - [React DevTools]()
