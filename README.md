@@ -9,7 +9,7 @@
 - [React Styling Practice](https://github.com/devliwa/react-styling-practice)
 - [React Components](https://github.com/devliwa/react-components)
 - [React Components Practice](https://github.com/devliwa/react-components-practice)
-- [Javascript ES6 - Import, Export and Modules]()
+- [Javascript ES6 - Import, Export and Modules](https://github.com/devliwa/es6-import-export-and-modules)
 - [Javascript ES6 Import, Export and Modules Practice]()
 - [Keeper App Project - Part 1 Challenge]()
 - [Keeper App Part 1 Solution]()
