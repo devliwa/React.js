@@ -12,7 +12,7 @@
 - [Javascript ES6 - Import, Export and Modules](https://github.com/devliwa/es6-import-export-and-modules)
 - [Javascript ES6 Import, Export and Modules Practice](https://github.com/devliwa/es6-import-export-practice)
 - [devliwa-note-app-part-1](https://github.com/devliwa/devliwa-note-app-part-1)
-- [React Props]()
+- [React Props](https://github.com/devliwa/react-props)
 - [React Props Practice]()
 - [React DevTools]()
 - [Mapping Data to Components]()
