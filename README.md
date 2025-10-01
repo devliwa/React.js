@@ -14,7 +14,7 @@
 - [devliwa-note-app-part-1](https://github.com/devliwa/devliwa-note-app-part-1)
 - [React Props](https://github.com/devliwa/react-props)
 - [React Props Practice](https://github.com/devliwa/react-props-practice)
-- [React DevTools]()
+- [React DevTools](https://github.com/devliwa/react-devtools)
 - [Mapping Data to Components]()
 - [Mapping Data to Components​ Practice]()
 - [Javascript ES6 Map/Filter/Reduce]()
