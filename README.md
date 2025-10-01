@@ -15,7 +15,7 @@
 - [React Props](https://github.com/devliwa/react-props)
 - [React Props Practice](https://github.com/devliwa/react-props-practice)
 - [React DevTools](https://github.com/devliwa/react-devtools)
-- [Mapping Data to Components]()
+- [Mapping Data to Components](https://github.com/devliwa/mapping-components)
 - [Mapping Data to Components​ Practice]()
 - [Javascript ES6 Map/Filter/Reduce]()
 - [Javascript ES6 Arrow functions]()
