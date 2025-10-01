@@ -11,7 +11,7 @@
 - [React Components Practice](https://github.com/devliwa/react-components-practice)
 - [Javascript ES6 - Import, Export and Modules](https://github.com/devliwa/es6-import-export-and-modules)
 - [Javascript ES6 Import, Export and Modules Practice](https://github.com/devliwa/es6-import-export-practice)
-- [Keeper App Part 1](https://github.com/devliwa/keeper-app-part-1)
+- [devliwa-note-app-part-1](https://github.com/devliwa/devliwa-note-app-part-1)
 - [React Props]()
 - [React Props Practice]()
 - [React DevTools]()
