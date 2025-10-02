@@ -22,7 +22,7 @@
 - [Keeper App Project - Part 2]()
 - [React Conditional Rendering with the Ternary Operator & AND Operator](https://github.com/devliwa/conditional-rendering)
 - [Conditional Rendering Practice](https://github.com/devliwa/conditional-rendering-practice)
-- [State in React - Declarative vs. Imperative Programming]()
+- [State in React - Declarative vs. Imperative Programming](https://github.com/devliwa/introduction-to-state)
 - [React Hooks - useState]()
 - [useState Hook Practice]()
 - [Javascript ES6 Object & Array Destructuring]()
