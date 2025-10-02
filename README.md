@@ -20,7 +20,7 @@
 - [Javascript ES6 Map/Filter/Reduce](https://github.com/devliwa/map-filter-reduce)
 - [Javascript ES6 Arrow functions](https://github.com/devliwa/es6-arrow-functions)
 - [Keeper App Project - Part 2]()
-- [React Conditional Rendering with the Ternary Operator & AND Operator]()
+- [React Conditional Rendering with the Ternary Operator & AND Operator](https://github.com/devliwa/conditional-rendering)
 - [Conditional Rendering Practice]()
 - [State in React - Declarative vs. Imperative Programming]()
 - [React Hooks - useState]()
