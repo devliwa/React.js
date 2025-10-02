@@ -18,7 +18,7 @@
 - [Mapping Data to Components](https://github.com/devliwa/mapping-components)
 - [Mapping Data to Components​ Practice](https://github.com/devliwa/mapping-components-practice)
 - [Javascript ES6 Map/Filter/Reduce](https://github.com/devliwa/map-filter-reduce)
-- [Javascript ES6 Arrow functions]()
+- [Javascript ES6 Arrow functions](https://github.com/devliwa/es6-arrow-functions)
 - [Keeper App Project - Part 2]()
 - [React Conditional Rendering with the Ternary Operator & AND Operator]()
 - [Conditional Rendering Practice]()
