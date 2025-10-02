@@ -32,7 +32,7 @@
 - [Changing Complex State Practice](https://github.com/devliwa/changing-complex-state-practice)
 - [Javascript ES6 Spread Operator](https://github.com/devliwa/es6-spread-operator)
 - [Javascript ES6 Spread Operator Practice](https://github.com/devliwa/es6-spread-operator-practice)
-- [Managing a Component Tree]()
+- [Managing a Component Tree](https://github.com/devliwa/managing-a-component-tree)
 - [Managing a Component Tree Practice]()
 - [Keeper App Project - Part 3]()
 - [React Dependencies & Styling the Keeper App]()
