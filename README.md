@@ -26,7 +26,7 @@
 - [React Hooks - useState](https://github.com/devliwa/useState-hook)
 - [useState Hook Practice](https://github.com/devliwa/useState-hook-practice)
 - [Javascript ​ES6 Destructuring Practice](https://github.com/devliwa/es6-destructuring)
-- [Event Handling in React]()
+- [Event Handling in React](https://github.com/devliwa/event-handling-in-react)
 - [React Forms]()
 - [Class Components vs. Functional Components]()
 - [Changing Complex State]()
