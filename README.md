@@ -24,7 +24,7 @@
 - [Conditional Rendering Practice](https://github.com/devliwa/conditional-rendering-practice)
 - [State in React - Declarative vs. Imperative Programming](https://github.com/devliwa/introduction-to-state)
 - [React Hooks - useState](https://github.com/devliwa/useState-hook)
-- [useState Hook Practice]()
+- [useState Hook Practice](https://github.com/devliwa/useState-hook-practice)
 - [Javascript ES6 Object & Array Destructuring]()
 - [Javascript ​ES6 Destructuring Challenge Solution]()
 - [Event Handling in React]()
