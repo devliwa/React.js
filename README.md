@@ -29,7 +29,7 @@
 - [Event Handling in React](https://github.com/devliwa/event-handling-in-react)
 - [React Forms](https://github.com/devliwa/react-forms)
 - [Changing Complex State](https://github.com/devliwa/Changing-Complex-State)
-- [Changing Complex State Practice]()
+- [Changing Complex State Practice](https://github.com/devliwa/changing-complex-state-practice)
 - [Javascript ES6 Spread Operator]()
 - [Javascript ES6 Spread Operator Practice]()
 - [Managing a Component Tree]()
