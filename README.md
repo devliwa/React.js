@@ -11,7 +11,6 @@
 - [React Components Practice](https://github.com/devliwa/react-components-practice)
 - [Javascript ES6 - Import, Export and Modules](https://github.com/devliwa/es6-import-export-and-modules)
 - [Javascript ES6 Import, Export and Modules Practice](https://github.com/devliwa/es6-import-export-practice)
-- [devliwa-note-app-part-1](https://github.com/devliwa/devliwa-note-app-part-1)
 - [React Props](https://github.com/devliwa/react-props)
 - [React Props Practice](https://github.com/devliwa/react-props-practice)
 - [React DevTools](https://github.com/devliwa/react-devtools)
@@ -19,7 +18,6 @@
 - [Mapping Data to Components​ Practice](https://github.com/devliwa/mapping-components-practice)
 - [Javascript ES6 Map/Filter/Reduce](https://github.com/devliwa/map-filter-reduce)
 - [Javascript ES6 Arrow functions](https://github.com/devliwa/es6-arrow-functions)
-- [Keeper App Project - Part 2]()
 - [React Conditional Rendering with the Ternary Operator & AND Operator](https://github.com/devliwa/conditional-rendering)
 - [Conditional Rendering Practice](https://github.com/devliwa/conditional-rendering-practice)
 - [State in React - Declarative vs. Imperative Programming](https://github.com/devliwa/introduction-to-state)
@@ -34,6 +32,5 @@
 - [Javascript ES6 Spread Operator Practice](https://github.com/devliwa/es6-spread-operator-practice)
 - [Managing a Component Tree](https://github.com/devliwa/managing-a-component-tree)
 - [Managing a Component Tree Practice](https://github.com/devliwa/managing-a-component-tree-practice)
-- [Keeper App Project - Part 3]()
-- [React Dependencies & Styling the Keeper App]()
+
   
